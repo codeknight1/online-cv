@@ -63,9 +63,19 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Front-end Developer & Researcher
+      time: 2023 - Present
+      company: Eventlums
+      details: |
+        I contribute to the development of an innovative platform that simplifies event management online. My dual role involves front-end development and product research to ensure the platform remains user-centric and competitive.
+
+        - Designed and implemented user-friendly interfaces for event creation, registration, and analytics.
+        - Conducted continuous research on user behavior and industry trends to inform design decisions and feature improvements.
+        - Collaborated with product managers and developers to turn research insights into practical solutions.
+        - Visit: [https://eventlums.com](https://eventlums.com)
     - role: Front-end Developer
       time: 2023 - 2024
-      company: Sun Tech, Katsina, Nigeria
+      company: Digikat, Katsina, Nigeria
       details: |
         I played a central role in developing a modern, functional website that aligned with Sun Tech’s goals. My responsibilities focused on front-end development, emphasizing a seamless user experience and high performance across devices.
 
