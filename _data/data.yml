@@ -53,17 +53,16 @@ education:
       time: 2025 - Present
       details: |
         In the process of completing admission to study Software Engineering at Iconic Open University.
-   - degree: Senior Secondary School Certificate
-     school: Globe Science Secondary School
-     time: 2016 - 2019
-     details: |
+    - degree: Senior Secondary School Certificate
+      school: Globe Science Secondary School
+      time: 2016 - 2019
+      details: |
         Completed Senior Secondary school education with a focus on science subjects at Globe Science Secondary School.
-     
 
 experiences:
   title: Experiences
   info:
-  - role: Front-end Developer & Researcher
+    - role: Front-end Developer & Researcher
       time: 2023 - Present
       company: Eventlums
       details: |
@@ -73,6 +72,7 @@ experiences:
         - Conducted continuous research on user behavior and industry trends to inform design decisions and feature improvements.
         - Collaborated with product managers and developers to turn research insights into practical solutions.
         - Visit: [https://eventlums.com](https://eventlums.com)
+
     - role: Front-end Developer
       time: 2023 - 2024
       company: Digikat, Katsina, Nigeria
