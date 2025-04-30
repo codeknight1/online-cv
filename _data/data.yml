@@ -57,6 +57,18 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Front-end Developer
+      time: 2025 - Present
+      company: Foodhub
+      details: |
+        Contributing to the development of FoodHub, an eCommerce platform designed to connect Africans in the diaspora with rare and traditional food ingredients. Responsibilities include front-end development and user research to ensure a seamless shopping experience tailored to cultural needs.
+ 
+        - Built intuitive shopping interfaces for discovering and ordering rare African food items.
+        - Researched diaspora food preferences and online grocery trends.
+        - Collaborated with product and design teams to localize user experience.
+        - Visit: https://www.foodhub.com
+
+
     - role: Front-end Developer & Researcher
       time: 2023 - Present
       company: Eventlums
