@@ -37,9 +37,12 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A passionate builder, educator, and open-source advocate with a strong background in web development, startup growth, and community-driven education reform. From founding impactful projects to mentoring aspiring tech talents, I combine technical skills with a vision for change.
+    A passionate builder, educator, and open-source advocate with a strong background in web development, startup growth, and community-driven education reform. 
+    From founding impactful projects to mentoring aspiring tech talents, I combine technical skills with a vision for change.
 
-    Having played key roles in initiatives like Techies Evenings, school transformation projects, and developer-focused events, I’m driven by a mission to make tech accessible, relevant, and globally competitive. I specialize in frontend technologies, automation tools, and creating systems that empower learning and collaboration.
+    Having played key roles in initiatives like Techies Evenings, school transformation projects, and developer-focused events, 
+    I’m driven by a mission to make tech accessible, relevant, and globally competitive. 
+    I specialize in frontend technologies, automation tools, and creating systems that empower learning and collaboration.
 
 education:
   title: Education
@@ -61,13 +64,12 @@ experiences:
       time: 2025 - Present
       company: Foodhub
       details: |
-        Contributing to the development of FoodHub, an eCommerce platform designed to connect Africans in the diaspora with rare and traditional food ingredients. Responsibilities include front-end development and user research to ensure a seamless shopping experience tailored to cultural needs.
- 
+        Contributing to the development of FoodHub, an eCommerce platform designed to connect Africans in the diaspora with rare and traditional food ingredients. 
+
         - Built intuitive shopping interfaces for discovering and ordering rare African food items.
         - Researched diaspora food preferences and online grocery trends.
         - Collaborated with product and design teams to localize user experience.
         - Visit: https://www.foodhub.com
-
 
     - role: Front-end Developer & Researcher
       time: 2023 - Present
@@ -99,16 +101,40 @@ experiences:
         - Designed intuitive interface showcasing projects and reviews.
         - Built features for logging wins and lessons learned.
 
+projects:
+  title: Projects & Open Source
+  assignments:
+    - title: Lumilab
+      link: "https://lumilab.com.ng"
+      tagline: "Frontend developer for a digital solutions startup, focused on scalable and user-friendly interfaces."
+
+    - title: Kasuwar Hatsi
+      link: "https://kasuwar-hatsi.vercel.app"
+      tagline: "Developed an online grain marketplace platform with modern UI and smooth navigation."
+
+    - title: Vertnet Learning Portal
+      link: "https://vertnet-learning.onrender.com"
+      tagline: "Built a student learning management system featuring QR attendance, payments, progress tracking, and AI-powered learning support."
+
+    - title: Digikat
+      link: "https://digikat.vercel.app"
+      tagline: "Business website emphasizing accessibility, performance, and brand consistency."
+
+    - title: O-smooth
+      tagline: "Open-source UI library project under the 7-joint-tech initiative."
+
 skills:
   title: Skills & Proficiency
   toolset:
     - name: JavaScript
-      level: 70%
+      level: 75%
     - name: React.js & Next.js
-      level: 70%
+      level: 75%
     - name: HTML5
       level: 95%
     - name: CSS & Tailwind CSS
-      level: 85%
+      level: 90%
     - name: Git & GitHub
       level: 90%
+    - name: TypeScript
+      level: 60%
