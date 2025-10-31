@@ -104,8 +104,10 @@ experiences:
 projects:
   title: Projects & Open Source
   assignments:
+    - title: Katsina E-Gov System
+      tagline: "Built a multi-tenant government memo system (Next.js 14, React 18, TypeScript, Tailwind, Zustand) with RBAC, memo workflows, attachments, real-time notifications, and audit logs."
     - title: Lumilab
-      link: "https://lumilab.com.ng"
+      link: "https://egovkt.com.ng"
       tagline: "Frontend developer for a digital solutions startup, focused on scalable and user-friendly interfaces."
 
     - title: Kasuwar Hatsi
