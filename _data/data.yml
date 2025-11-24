@@ -4,7 +4,7 @@ sidebar:
   education: true
 
   name: Uthman Abdurrahman
-  tagline: Front-end Developer
+  tagline: Fullstack Developer
   avatar: Pic.jpg
 
   email: uthmanabdurrahman98@gmail.com
@@ -140,3 +140,7 @@ skills:
       level: 90%
     - name: TypeScript
       level: 60%
+    - name: Node.js
+      level: 70%
+    - name: express.js
+      level: 70%
